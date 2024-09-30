@@ -1,0 +1,9 @@
+{
+  "name": "victory-callback-widget",
+  "version": "1.0.0",
+  "description": "Victory Group callback widget",
+  "main": "index.js",
+  "repository": "https://github.com/LeachMartinez/victory-callback.git",
+  "author": "Andrey Sunsin",
+  "license": "MIT"
+}
